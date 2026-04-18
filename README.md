@@ -18,7 +18,7 @@ A tiny macOS menu bar app that reads text aloud. Paste text or hit a shortcut to
 
 ## Install
 
-Coming soon to the Mac App Store.
+[Download it from the App Store](https://apps.apple.com/dk/app/tts-anything-listen-to-texts/id6761550734?mt=12)
 
 ## Privacy
 
